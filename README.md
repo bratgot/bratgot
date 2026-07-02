@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Art 👋
 
-<!--
-**bratgot/bratgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VFX TD building tools for Nuke — C++ NDK plugins, BlinkScript gizmos,
+CUDA image processing, and Python pipeline tooling. Also found hanging
+off ropes photographing canyons in the Blue Mountains.
 
-Here are some ideas to get you started:
+## ☕ Support This Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/bratgot)
+
+These tools are free and open source, but GPU-accelerated plugins don't
+test themselves. If one of them saved you time on a shot or a deadline,
+consider buying me a coffee — it helps cover hardware, licenses, and
+late-night testing across Nuke versions.
